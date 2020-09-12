@@ -75,4 +75,3 @@ class Hangman:
 hangman = Hangman()
 hangman.main()
 hangman.play()
-
