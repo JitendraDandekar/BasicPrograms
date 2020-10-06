@@ -16,9 +16,7 @@ def ranpwd():
 
 root = Tk()
 root.title('Password Generator')
-root.geometry('200x100')
-icon = PhotoImage(file='Libicon.png')
-root.iconphoto(False, icon)
+root.geometry('300x100')
 
 pwddis = Frame(root)
 pwddis.pack()
